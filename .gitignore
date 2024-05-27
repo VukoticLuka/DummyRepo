@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# some description file
+
+podsetnik.txt
+
 # C extensions
 *.so
 
